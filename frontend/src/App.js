@@ -1,4 +1,4 @@
-import React from 'react';
+import React :white_check_mark:from 'react';
 import './App.css';
 import Home from './pages/Home';
 
