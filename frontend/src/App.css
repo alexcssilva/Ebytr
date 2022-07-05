@@ -1,0 +1,28 @@
+body {
+  background-color: rgba(205, 255, 200, 0.979);
+}
+
+.container-form {
+  padding: 1em;
+  background-color: white;
+}
+
+.container-input-button {
+  display: flex;
+  justify-content: center;
+}
+
+.list-tasks {
+  margin-top: 1em;
+}
+
+.header-form {
+  margin-top: 2em;
+  display: flex;
+  justify-content: center;
+
+}
+
+.input-task {
+  width: 70%;
+}
